@@ -5,7 +5,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -30,6 +29,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - Solution URL: [Add solution URL here](https://github.com/GustinSchumacher/NFT-Preview-Component)
 - Live Site URL: [Add live site URL here](http://gustinschumacher.github.io/NFT-Preview-Component)
 
+## My process
 
 ### Built with
 
@@ -39,4 +39,4 @@ VS Code
 ## Author
 
 [Website](https://gustinschumacher.github.io/)
-- Twitter - [@gustincodes](https://www.twitter.com/gustincodes)
+[@gustincodes](https://www.twitter.com/gustincodes)
