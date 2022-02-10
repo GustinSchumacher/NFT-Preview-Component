@@ -38,5 +38,5 @@ VS Code
 
 ## Author
 
-- Website - (https://gustinschumacher.github.io/)
+[Website](https://gustinschumacher.github.io/)
 - Twitter - [@gustincodes](https://www.twitter.com/gustincodes)
